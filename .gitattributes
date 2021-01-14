@@ -1,2 +1,4 @@
 # Specify filepatterns you want to assign special attributes.
 
+# always normalise line endings
+* text=auto
