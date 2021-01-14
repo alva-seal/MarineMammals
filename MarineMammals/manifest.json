@@ -1,0 +1,12 @@
+{
+  "Name": "Marine Mammals",
+  "Author": "fabi",
+  "Version": "1.0.0",
+  "Description": "Adds Marine Mammals to Stardew Valley.",
+  "UniqueID": "fabi.MarineMammals",
+  "MinimumApiVersion": "3.8.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
