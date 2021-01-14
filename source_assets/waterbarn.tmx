@@ -10,7 +10,7 @@
   <property name="Warp" value="11 15 Farm 14 11"/>
  </properties>
  <tileset firstgid="1" name="barn" tilewidth="16" tileheight="16" tilecount="84" columns="4">
-  <image source="../Content (unpacked)/Maps/coopTiles" width="64" height="336"/>
+  <image source="../../Content (unpacked)/Maps/coopTiles" width="64" height="336"/>
   <tile id="12">
    <properties>
     <property name="Type" value="Wood"/>
@@ -34,7 +34,7 @@
   </tile>
  </tileset>
  <tileset firstgid="85" name="p" tilewidth="16" tileheight="16" tilecount="36" columns="4">
-  <image source="../Content (unpacked)/Maps/paths" width="64" height="144"/>
+  <image source="../../Content (unpacked)/Maps/paths" width="64" height="144"/>
  </tileset>
  <layer id="1" name="Back" width="25" height="15">
   <data encoding="csv">
